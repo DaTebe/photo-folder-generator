@@ -1,0 +1,14 @@
+{
+  "name": "photo-folder-generator",
+  "version": "1.0.0",
+  "description": "generates folders for every day of a year",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dtebernum",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
